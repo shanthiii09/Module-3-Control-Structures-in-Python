@@ -6,10 +6,10 @@ To check the condition, we used an if-else statement.
 
 we have output as
 
-Enter a number:5
+Enter a number: 5
 5 is an odd number.
 
-Enter a number:6
+Enter a number: 6
 6 is an even number.
 
 In Task 2, we used a variable a and set it equal to 0.
